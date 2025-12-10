@@ -12,7 +12,8 @@ Desenvolvedor web focado em criar soluções práticas e funcionais para o mundo
 
 Minha especialidade está em transformar ideias em aplicações web funcionais, com ênfase particular em projetos relacionados a criptomoedas, DeFi e Web3. Trabalho com desenvolvimento full stack, desde a concepção até a implementação final, sempre com foco em experiência do usuário e performance.
 
-**Atualmente:** Desenvolvendo projetos freelance e explorando oportunidades no mercado tech brasileiro, especialmente em Web3 e blockchain.
+**Atualmente:** cursando **Engenharia de Software** (1º período) na universidade Unicesumar, combinando formação acadêmica com experiência prática no mercado. Minha especialidade está em transformar ideias em aplicações web funcionais, com ênfase particular em projetos relacionados a criptomoedas, DeFi e Web3. Trabalho com desenvolvimento full stack, desde a concepção até a implementação final, sempre com foco em experiência do usuário e performance.
+
 
 ---
 
